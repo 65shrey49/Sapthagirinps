@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IOT training.iml" filepath="$PROJECT_DIR$/IOT training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tripillar Assessment/Tripillar Assessment.iml" filepath="$PROJECT_DIR$/Tripillar Assessment/Tripillar Assessment.iml" />
     </modules>
   </component>
 </project>
